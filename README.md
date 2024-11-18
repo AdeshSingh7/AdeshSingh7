@@ -1,115 +1,57 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: #f1f1f1;
-}
+# 🎨 About Me
 
-#about-me {
-  font-family: Arial, sans-serif;
-  width: 500px;
-  background-color: #ffffff;
-  padding: 20px;
-  margin: 20px auto;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
+Hello! I'm **[Your Name]**, a passionate software engineer with an enthusiasm for automation, robotics, and IoT. With a solid foundation in computer science, I specialize in developing scalable and efficient software systems. 🚀
 
-#about-me h1 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
+## 🛠 Skills
 
-#about-me p {
-  margin-bottom: 20px;
-}
+- **Programming languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  
+- **Development frameworks:**  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) 
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-#about-me ul {
-  list-style-type: none;
-  padding: 0;
-}
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#about-me li {
-  margin-bottom: 10px;
-}
+- **Operating Systems:** Windows, Linux, macOS
 
-#about-me a {
-  color: #4f7ed4;
-  text-decoration: none;
-}
+- **Agile methodologies:** Scrum, Kanban
 
-#about-me a:hover {
-  color: #4285f4;
-}
+- **Version control:** Git, SVN
 
-#skills {
-  font-size: 18px;
-  font-weight: bold;
-}
+## 🚀 Projects
 
-#projects {
-  font-size: 18px;
-  font-weight: bold;
-}
+- **[Project 1]:** A web application for [brief description]
+- **[Project 2]:** A mobile application for [brief description]
+- **[Project 3]:** A machine learning model for [brief description]
 
-#work-experience {
-  font-size: 18px;
-  font-weight: bold;
-}
+## 💼 Work Experience
 
-#personal-projects {
-  font-size: 18px;
-  font-weight: bold;
-}
+- **[Job Title], [Company], [Employment Dates]**  
+  + [Brief description of job]
+- **[Job Title], [Company], [Employment Dates]**  
+  + [Brief description of job]
 
-#achievements {
-  font-size: 18px;
-  font-weight: bold;
-}
+## 🧩 Personal Projects
 
-#contact-me {
-  font-size: 18px;
-  font-weight: bold;
-}
-</style>
-</head>
-<body>
-<div id="about-me">
-  <h1>About Me</h1>
-  <p>Hi, I'm [Your Name], a passionate software engineer with a strong interest in automation, robotics, and IoT. I have a solid foundation in computer science and software engineering, with experience in developing scalable and efficient software systems.</p>
-  <h2 id="skills">Skills</h2>
-  <ul>
-    <li>Programming languages: Python, C++, Java, JavaScript</li>
-    <li>Development frameworks: Flask, Django, React</li>
-    <li>Databases: MySQL, MongoDB, Redis</li>
-    <li>Operating Systems: Windows, Linux, macOS</li>
-    <li>Agile methodologies: Scrum, Kanban</li>
-    <li>Version control: Git, SVN</li>
-  </ul>
-  <h2 id="projects">Projects</h2>
-  <ul>
-    <li><a href="">[Project 1]: A web application for [brief description]</a></li>
-    <li><a href="">[Project 2]: A mobile application for [brief description]</a></li>
-    <li><a href="">[Project 3]: A machine learning model for [brief description]</a></li>
-  </ul>
-  <h2 id="work-experience">Work Experience</h2>
-  <ul>
-    <li>[Job Title], [Company], [Employment Dates]</li>
-    <li>[Job Title], [Company], [Employment Dates]</li>
-  </ul>
-  <h2 id="personal-projects">Personal Projects</h2>
-  <ul>
-    <li><a href="">[Project 1]: [brief description]</a></li>
-    <li><a href="">[Project 2]: [brief description]</a></li>
-    <li><a href="">[Project 3]: [brief description]</a></li>
-  </ul>
-  <h2 id="achievements">Achievements</h2>
-  <ul>
-    <li>[Achievement 1]: [brief description]</li>
-    <li>[Achievement 2]: [brief description]</li>
-    <li>[Achievement 3]: [brief description]</li>
-  </ul>
-  <h2 id="contact-me">Contact Me</h2>
-  <p>You can reach me at <a href="mailto:[Your Email]">[Your Email]</a> or <a href="[Your LinkedIn Profile]">[Your LinkedIn Profile]</a>. I'm always happy to chat about new projects or opportunities.</p>
-</div>
+- **[Project 1]:** [brief description]
+- **[Project 2]:** [brief description]
+- **[Project 3]:** [brief description]
+
+## 🏆 Achievements
+
+- **[Achievement 1]:** [brief description]
+- **[Achievement 2]:** [brief description]
+- **[Achievement 3]:** [brief description]
+
+## 📫 Contact Me
+
+Feel free to reach out via [Your Email] or connect with me on [LinkedIn](Your LinkedIn Profile). I'm always eager to discuss new projects or opportunities!
 
