@@ -65,8 +65,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeshsingh7&show_icons=true&theme=radical&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeshsingh7&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshsingh7&show_icons=true&theme=radical&count_private=true" width="90%" />
 </p>
 
 <p align="center">
