@@ -3,7 +3,7 @@
   Hi, I'm <span style="color:#f7ce3e;">Adesh Singh</span> 👋
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+IoT+%7C+Automation+Enthusiast;Pythonist+%7C+Tinkerer+%7C+Robotics+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+IoT+%7C+Automation;Pythonist+%7C+Tinkerer+%7C+Robotics+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
